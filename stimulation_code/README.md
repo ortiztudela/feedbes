@@ -1,0 +1,1 @@
+In addition to the main task, we also used [polar angle and eccentricity stimulation](https://github.com/ortiztud/Retinotopy_mapping_stimuli/blob/master/eccentricity_polar.py) to map the visual field. Credits to @rockNroll87q and @felix_non.
