@@ -9,7 +9,7 @@
 ## Description
 #
 # This script creates a "reg" folder and puts all the necessary .mat files into it, i.e.
-# identity matrices. Also, a symbolic link is created between mean and standard nifti files.  
+# a 4x4 identity matrices. Also, a symbolic link is created between mean and standard nifti files.  
 # It accesses the manually created template for the 2nd level, exchanges the placeholder
 # "CHANGESUBJECT" with the correct subject ID and copies the file with a better fitting 
 # filename to the PPI_results folder. 
