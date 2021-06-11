@@ -1,19 +1,19 @@
-%% FeedBES PPI Analysis - Script 00 - Extract signal from a mask using fslmeants
+%% FeedBES PPI Analysis - Script 01 - Extract signal from a mask using fslmeants
 %
-% Authors: Javier Ortiz-Tudela feat. Isabelle Ehrlich
+% Author: Isabelle Ehrlich
 % Lifespan Cognitive and Brain Development (LISCO) Lab
 % Goethe University Frankfurt am Main
 %
 %% Description
 %
-% This script is just a wrapper to loop over participants and runs to
+% This script is just a wrapper to loop over participants and runs in order to
 % extract the signal for the preferred ROI. In our case it is the EVC and
 % the LOC. 
 
 %% GO!
 
 % set FSL environment
-setenv('FSLDIR','/home/ehrlich/fsl');  % this to tell where FSL folder is
+setenv('FSLDIR','/home/ehrlich/fsl');  % this to tell where the FSL folder is
 setenv('FSLOUTPUTTYPE', 'NIFTI_GZ'); % this to tell what the output type would be
 
 % Get the path to the main folder

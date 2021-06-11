@@ -1,8 +1,8 @@
 #!/bin/bash
 
-## FeedBES PPI Analysis - Script 04 - Combine the 4 runs 
+## FeedBES PPI Analysis - Script 05 - Combine the 4 runs 
 #
-# Authors: Javier Ortiz-Tudela feat. Isabelle Ehrlich
+# Author: Isabelle Ehrlich
 # Lifespan Cognitive and Brain Development (LISCO) Lab
 # Goethe University Frankfurt am Main
 #

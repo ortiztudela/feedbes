@@ -1,6 +1,6 @@
 %% FeedBES PPI Analysis - Script 00 - Create condition files (per run) for FSL
 %
-% Authors: Javier Ortiz-Tudela feat. Isabelle Ehrlich
+% Author: Isabelle Ehrlich
 % Lifespan Cognitive and Brain Development (LISCO) Lab
 % Goethe University Frankfurt am Main
 %
